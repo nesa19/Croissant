@@ -20,8 +20,3 @@ body{
     display: block;
     margin: 30px auto;
 }
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-}
